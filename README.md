@@ -12,7 +12,7 @@ This is a simple and responsive Image Gallery App built using HTML and CSS, whic
 * CSS3
 
 ## Project Structure
-act6_my_gallery-main
+***act6_my_gallery-main**
 * images
 * index.html
 * style.css
