@@ -12,10 +12,12 @@ This is a simple and responsive Image Gallery App built using HTML and CSS, whic
 * CSS3
 
 ## Project Structure
-my_gallery #project folder name
+act6_my_gallery-main
 * images
 * index.html
 * style.css
+* README.md
+* LICENSE
 
 ## Getting Started
 1. Clone the repository git clone: https://github.com/AL-FAIZKHAN007/act6_my_gallery.git
